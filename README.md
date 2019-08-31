@@ -7,6 +7,5 @@
 * Jorge Navia Ynga
 * Hugo Mora Rojas
 
-
 ## Copyright and License
 
